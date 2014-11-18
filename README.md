@@ -1,4 +1,4 @@
 angular_texyon
 ==============
 
-esarrollo de aplicación web con JavaScript
+Desarrollo de aplicación web con JavaScript
